@@ -1,0 +1,2 @@
+﻿S.No.,Exceptio Type,Source,Message,Machine,Screenshot,Status,Date
+1,System Exception,Reade Excel Activity,The process cannot access the file 'C:\Users\manoj.kumar15\Desktop\RoboticEnterpriseFramework\Input\Employee.xlsx' because it is being used by another process.,IN2359271W1,"=HYPERLINK(""C:\Users\manoj.kumar15\Desktop\RoboticEnterpriseFramework\Exceptions_Screenshots/SE_02/17-02-2020\ExceptionScreenshot_200217.125713.png"",""IMG"")",Failed,17-02-2020
